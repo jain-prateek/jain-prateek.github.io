@@ -1,2 +1,2 @@
-# jain-prateek.github.io
-my portfolio
+# My Portfolio
+Website containing details about me.
